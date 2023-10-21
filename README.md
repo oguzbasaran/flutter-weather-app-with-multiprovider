@@ -6,7 +6,7 @@ A comprehensive Flutter application showcasing the use of the Provider package a
 
 - Multiple Providers using MultiProvider
 - ChangeNotifierProvider for reactive state management
-- consumer for responsive UI updates
+- Consumer for responsive UI updates
 
 ## Getting Started
 
