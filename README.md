@@ -30,7 +30,7 @@ To dive into the app:
 
 ## API Usage
 
-# Obtaining the Weather API Key
+**Obtaining the Weather API Key**
 
 For the app to fetch weather details, you'll require an API key from OpenWeatherMap:
 
