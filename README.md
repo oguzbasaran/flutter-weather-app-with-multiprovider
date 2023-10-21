@@ -43,7 +43,7 @@ For the app to fetch weather details, you'll require an API key from OpenWeather
 3. **Integrate API Key into the App**:
    - After obtaining your API key, place it appropriately in the app's configurations.
 
-   **Just add here:**
+   **Just change this:**
    services/weather_service.dart
    
      final String apiKey = 'your_api_key';
